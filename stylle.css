@@ -1,0 +1,50 @@
+body {
+    
+}
+
+#bannerPensamento { 
+    width: 100%;
+    height: 40%;
+ }
+
+ .principal {
+    background: #cccccc
+ }
+
+ .tituloprincipal{
+    padding-left: 20px;
+  }
+
+ .titulo-centralizado {
+
+ }
+
+p {
+   text-align: center;
+}
+
+#missao {
+   font-size: 20px
+}
+
+em b {
+   color: #4c00ff; 
+}
+.pilarespensamento{
+    background:#ffffff;
+}
+ .pilares {
+    font-style: italic;
+ }
+
+ ul{
+    display: inline-block;
+ }
+
+ .imagempilares{
+    width: 50%;
+ }
+
+ .importancia {
+    background: #cccccc;
+ }
