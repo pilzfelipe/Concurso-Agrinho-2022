@@ -1,23 +1,24 @@
 body {
-   background:#ffffff
+   background:#ffffff;
+   border: 10px solid rgb(67, 42, 124)
 }
 
 #bannerpensamento {
-   width: 100%;
+   width: 98%;
+   border: 10px solid red;
+}
+#tituloprincipal{
+   border: 10px solid red
 }
 
 
 .principal {
-   background:#cccccc 
+   background:#cccccc;
 } 
 
  .tituloprincipal{
-    padding-left: 20px;
+    padding-left: 20px; 
   }
-
- .titulo-centralizado {
-
- }
 
 p {
    text-align: center;
@@ -28,21 +29,20 @@ em b {
 }
 
 .pilarespensamento{
-    background:#ffffff;
+   background:#ffffff;
+   border: 10px solid red;
 }
- .pilares {
-    font-style: italic;
- }
-
+ 
  ul{
     display: inline-block;
  }
 
  .imagempilares{
     width: 50%;
- }
+    border: 10px solid blue;
+    }
 
  .importancia {
     background: #cccccc;
+    border: 10px solid red;
  }
-
